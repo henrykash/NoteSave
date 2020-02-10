@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NoteSave</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_notelistactivity">Notelistactivity</string>
+    <string name="title_activity_note_list">NoteListActivity</string>
+    <string name="title_activity_note">Edit Note</string>
+</resources>
